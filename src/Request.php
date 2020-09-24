@@ -2,8 +2,6 @@
 
 namespace BrainyLab;
 
-require './vendor/autoload.php';
-
 class Request
 {
 
