@@ -2,12 +2,12 @@
 
 include_once "./vendor/autoload.php";
 
-use Request\Create;
+use BrainyLab\Request;
 
 /**
  * Instance Library
  */
-$request = new Create('http://localhost:3333', '');
+$request = new Request('http://localhost:3333', '');
 
 /**
  * Post Method

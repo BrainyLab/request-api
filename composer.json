@@ -3,8 +3,7 @@
     "description": "Library to Consume the APi Developed by BrainyLab",
     "type": "library",
     "license": "GPL-3.0-or-later",
-    "minimum-stability": "dev",
-    "version": "v0.0.5",
+    "version": "v0.0.6",
     "authors": [
         {
             "name": "André Felipe Schulle",
@@ -13,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-          "Request\\": "src/"
+          "BrainyLab\\": "src/"
         },
         "classmap": [
             "src/"
