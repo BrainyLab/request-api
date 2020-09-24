@@ -2,7 +2,7 @@
     "name": "brainylab/request-api",
     "description": "Library to Consume the APi Developed by BrainyLab",
     "type": "library",
-    "license": "GNU",
+    "license": "GPL-3.0-or-later",
     "version": "0.0.1",
     "authors": [
         {
