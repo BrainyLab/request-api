@@ -1,10 +1,10 @@
 <?php
 
-namespace Request;
+namespace BrainyLab;
 
 require './vendor/autoload.php';
 
-class Create
+class Request
 {
 
   private $url;

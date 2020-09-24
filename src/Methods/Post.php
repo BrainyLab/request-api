@@ -1,6 +1,6 @@
 <?php
 
-namespace Request\Methods;
+namespace BrainyLab\Methods;
 
 use Exception;
 
