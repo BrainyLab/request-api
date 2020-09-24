@@ -4,7 +4,7 @@
     "type": "library",
     "license": "GPL-3.0-or-later",
     "minimum-stability": "beta",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "authors": [
         {
             "name": "André Felipe Schulle",
